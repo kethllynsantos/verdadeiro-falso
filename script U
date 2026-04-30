@@ -1,0 +1,7 @@
+// exemplo de tipagem dinamica
+let dado = 100;
+console.log ("valor , dado");
+console.log("tipo", typeof dado);
+
+
+dado = 
